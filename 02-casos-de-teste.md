@@ -1,7 +1,5 @@
 # Casos de teste | Da regra ao passo a passo
 
-Slides 14 a 16. Escreva o resultado esperado antes da execução. Registre o obtido no arquivo de execução depois de abrir o cartão da resposta.
-
 ## Molde
 
 - ID e nome: [preencher]
