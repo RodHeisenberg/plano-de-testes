@@ -27,4 +27,3 @@
 - Risco. O que pode bloquear a execução? A API pode estar indisponível 
 - Contingência. O que a equipe faz se isso ocorrer? Conferir o endereço, se continuar registrar como bloqueado.
 
-> Fala para preencher. Primeiro eu digo o que queremos verificar. Depois eu delimito o que entra nesta rodada. Quando outra pessoa abrir este documento, ela precisa entender como o trabalho foi combinado.
