@@ -46,4 +46,3 @@ O cenário prevê cadastro de produto, alteração de preço e exclusão. Durant
 - Resultado esperado: [preencher]
 - Resultado obtido na simulação: [preencher]
 
-> Fala para preencher. O slide descreve as operações, então vamos declarar a regra que adotamos para o exercício. Vou escrever a primeira entrada e deixar para vocês pensarem em qual valor deve mudar no segundo caso.
