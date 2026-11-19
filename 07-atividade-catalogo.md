@@ -1,6 +1,6 @@
 # Atividade | Planejamento de testes de um catálogo
 
-Slides 25 e 26. O cenário prevê cadastro de produto, alteração de preço e exclusão. Durante a gravação, explique cada bloco e comece o primeiro caso na tela. Os dois casos de cadastro e o incidente de exclusão são os itens pedidos no slide.
+O cenário prevê cadastro de produto, alteração de preço e exclusão. Durante a gravação, explique cada bloco e comece o primeiro caso na tela. Os dois casos de cadastro e o incidente de exclusão são os itens pedidos no slide.
 
 ## 1. Plano simplificado
 
