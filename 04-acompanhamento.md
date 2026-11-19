@@ -2,11 +2,11 @@
 
 | Situação | Percentual do slide | Quantidade em 20 casos |
 |---|---:|---|
-| Aprovados | 70% | [preencher] |
-| Reprovados com bug severo | 15% | [preencher] |
-| Reprovados com bug menor | 10% | [preencher] |
-| Bloqueados ou não executados | 5% | [preencher] |
-| Total | 100% | [preencher] |
+| Aprovados | 70% | 14 |
+| Reprovados com bug severo | 15% | 3 |
+| Reprovados com bug menor | 10% | 2 |
+| Bloqueados ou não executados | 5% | 1 |
+| Total | 100% | 20 |
 
 - Casos que chegaram a um resultado de aprovação ou reprovação: [preencher]
 - Casos reprovados: [preencher]
